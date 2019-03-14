@@ -1,4 +1,4 @@
-# pms
+# Nishkarsh Portal
 
 ## Project setup
 ```
