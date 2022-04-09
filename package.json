@@ -11,7 +11,7 @@
     "chart.js": "^2.9.4",
     "firebase": "^5.8.4",
     "jquery": "^3.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nodemailer": "^6.6.1",
     "popper.js": "^1.14.7",
     "tar": "^4.4.18",
